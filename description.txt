@@ -1,0 +1,6 @@
+To run PolarPal A.I., kindly write this on your terminal: python run.py 
+
+If the zip file is on your folder, kindly write this on your terminal before running python run.py: cd my_folder
+
+You do not have to follow the my_folder path since this is an example of the name of the folder. 
+
